@@ -1,0 +1,12 @@
+{
+    "name": "talently/php-backend-challenge-02",
+    "description": "Challenge for php backend",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Talently\\PhpBackendChallenge02\\": "src/"
+        }
+    },
+    "require": {}
+}

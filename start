@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker-compose up -d
+exec docker-compose exec -T mysql mysql -uroot -ptalently talently < docker/talently.sql
