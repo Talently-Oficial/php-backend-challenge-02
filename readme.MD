@@ -23,10 +23,7 @@ cp .env.example .env
 ```
 ./down
 ```
-#### Para reiniciar la base de datos
-```
-./down
-```
+
 
 ## Requisitos
 
