@@ -60,7 +60,7 @@ Catalogo de usuarios
 - La limpieza y legibilidad del código será considerada.
 - La eficiencia del código en cuestiones de rendimiento sumarán para esta prueba.
 - Al finalizar el reto, enviar el enlace de <b>GitHub</b> de la solución a emmanuel.barturen@talently.tech 
-con copia a paula.anselmo@talently.tech con título "Reto Talently Backend 2"
+con copia a paula.anselmo@talently.tech con título "Reto Talently Backend"
 
 
 #### Nota:
